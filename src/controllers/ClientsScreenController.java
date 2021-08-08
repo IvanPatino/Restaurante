@@ -15,7 +15,6 @@ public class ClientsScreenController {
 		if (name.trim().length() < 3) {
 
 			return " ERROR!!!, el nombre no debe tener menos de 3 Digitos ";
-
 		}
 
 		if (lastname.trim().length() < 3) {
